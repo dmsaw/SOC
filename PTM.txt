@@ -1,5 +1,3 @@
-Nama File	HASH MD5
-# MD5 Entry with hash description
 aa67243f746e5d76f68ec809355ec234  md5_sample1
 fae1061813f2148296767d28262d2c25  Netscan.exe
 27304b246c7d5b4e149124d5f93c5b01  PsExec.exe
